@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Seledri",
+        "scientificName": "Apium graveolens",
+        "image": "img/seledri.jpg",
+        "otherNames": "Daun Sop",
+        "benefits": [
+            "Seledri memiliki sifat diuretik, antioksidan, dan menyehatkan jantung. Bermanfaat untuk menurunkan tekanan darah, membantu pencernaan, dan mengurangi risiko penyakit kronis."
+
+        ],
+        "uses": [
+            "Seledri sering digunakan sebagai bumbu dalam sup, salad, atau jus untuk manfaat kesehatan."
+
+        ]
+    }
+]
